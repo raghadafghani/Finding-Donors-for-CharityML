@@ -1,2 +1,8 @@
 # Finding-Donors-for-CharityML
-This project for Udacity's Intro to Machine Learning course involves optimizing CharityML's donor outreach by predicting potential donors among California’s 15 million workers using supervised learning models to maximize donations and reduce costs.
+This project, part of Udacity's Introduction to Machine Learning course, tasks us with assisting CharityML, a fictitious charity organization based in Silicon Valley. Our role was to develop and optimize an algorithm aimed at identifying potential donors among California's nearly 15 million working residents. Initially, an analysis of nearly 32,000 solicitation letters revealed that successful donations came exclusively from individuals earning more than $50,000 annually. Leveraging this insight, we are to evaluate and fine-tune various supervised learning models to efficiently predict and enhance future donor engagement, ultimately maximizing donation yield while reducing mailing costs.
+
+
+
+
+
+
